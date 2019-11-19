@@ -1,0 +1,11 @@
+test\TypeManifestationEquipRepository.class
+Audit\configs\AuditRevisionListener.class
+test\ManifestationEquipRessource.class
+Audit\configs\AuditRevisionEntity.class
+test\ManifestationEquipRepository.class
+test\ManifestationEquipService.class
+test\TypeManifestationEquip.class
+Audit\configs\HibernateConfiguration.class
+test\ManifestationEquipServiceImpl.class
+test\Application.class
+test\ManifestationEquip.class
